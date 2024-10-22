@@ -1,3 +1,5 @@
+### Basic Angular api integration
+
 - ng new angular-api
 - import httpClientModle to app.module.ts
 - create service for api 
